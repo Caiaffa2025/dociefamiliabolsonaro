@@ -1,0 +1,6 @@
+{
+  "name": "Somos Antifascismo · Pela Soberania do Brasil",
+  "description": "Dossiê público e documental de todas as investigações, processos, esquemas e ataques à soberania popular cometidos pelo clã Bolsonaro desde a chegada ao poder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
